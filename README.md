@@ -178,7 +178,7 @@ for (let i = 0; i < listaDeLucro.length; i++){
 
 console.log(lucroTotal)
 
-exerciseProgressIcon
+
 Loop com Array - Lista de Carros
 Uma agência de carros quer exibir os itens do seu catálogo para os clientes. Eles exportaram os nomes dos carros no formato de array e guardamos essas informações na variável listaDeCarros que já vai estar disponível no código. 
 
@@ -234,7 +234,7 @@ for (let i = 0; i < listaDeFrutas.length; i++){
     }
 }
 
-exerciseProgressIcon
+
 Break e Continue - Bingo
 Vamos criar um bingo, onde os números da cartela serão representados por um array chamado cartela, e o número sorteado deve ficar em uma variável chamada numeroSorteado. Seu trabalho será  verificar se existe o número sorteado na cartela, quando encontrar deve imprimir “Encontrei o número!” e parar o loop! 
 
@@ -317,7 +317,7 @@ var lista = [ 'Leite', 'tomate', 'Biscoito', 'Tapioca']
 }
 
 
-exerciseProgressIcon
+
 Declarando funções - Tabuada do Sete
 Uma professora quer ajudar os alunos a decorarem a tabuada do 7 exibindo o resultado para eles! 
 Crie uma função chamada tabuadaDoSete que imprima a tabuada do sete utilizando um loop.
